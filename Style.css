@@ -1,9 +1,20 @@
 #firstimage{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 400px;
+    padding-right: 15px;
+    padding-bottom: 10px;
     float: left;
     }
 #secondimage{
-    height: 200px;
+    height: 150px;
     width: 200px;
+}
+body{
+    background: #ededed;
+}
+#Viz1image{
+    height: 400px;
+    width: 6d00px;
+    padding-right: 15px;
+    padding-bottom: 10px;
 }
