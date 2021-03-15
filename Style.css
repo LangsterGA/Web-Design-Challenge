@@ -14,7 +14,17 @@ body{
 }
 #Viz1image{
     height: 400px;
-    width: 6d00px;
+    width: 600px;
     padding-right: 15px;
     padding-bottom: 10px;
+}
+#city_table{
+    border-collapse: collapse;
+    width: 100%;
+    font-size:10pt;
+    table-layout: auto;
+    background-color: white;
+}
+.vizpara{
+    width: 600px;
 }
