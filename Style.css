@@ -11,6 +11,7 @@
 }
 body{
     background: #ededed;
+    margin-bottom: 5%;
 }
 #Viz1image{
     height: 400px;
@@ -24,7 +25,11 @@ body{
     font-size:10pt;
     table-layout: auto;
     background-color: white;
+    margin-bottom: 10%;
 }
 .vizpara{
     width: 600px;
 }
+.card-padding {
+    padding: 1rem 1rem 1rem 1rem;
+  }
